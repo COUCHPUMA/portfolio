@@ -2,18 +2,28 @@
     padding-top: 20px;
     border: black 20px;
 }
+
 .instagram {
     width: 300px;
-    height: 300px; 
+    height: 300px;
     margin: auto;
     border: solid grey 5px;
     padding: 10px;
     box-sizing: content-box;
 }
+
 .stretch-card>.card {
     width: 100%;
     min-width: 100%
 }
+
+.profile {
+    /* display: block; */
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 
 /* body {
     background-color: #f9f9fa
@@ -216,4 +226,3 @@
     background: #bf3322;
     color: #ffffff
 } */
-
