@@ -1,32 +1,66 @@
-.container {
-    padding-top: 20px;
-    border: black 20px;
-}
+                                    .container {
+                                        padding-top: 20px;
+                                        border: black 20px;
+                                    }
+                                    
+                                    .instagram {
+                                        width: 300px;
+                                        height: 300px;
+                                        margin: auto;
+                                        border: solid grey 5px;
+                                        padding: 10px;
+                                        box-sizing: content-box;
+                                    }
+                                    
+                                    .stretch-card>.card {
+                                        width: 100%;
+                                        min-width: 100%
+                                    }
+                                    
+                                    img.profile {
+                                        display: block;
+                                        margin-left: auto;
+                                        margin-right: auto;
+                                        height: 500px;
+                                        width: auto;
+                                    }
+                                    
+                                    .footer {
+                                        background-color: #AD3E0A;
+                                    }
+                                    
+                                    #navbarNav {
+                                        background-color: #AD3E0A;
+                                    }
+                                    
+                                    .navbar-brand {
+                                        background-color: #AD3E0A;
+                                    }
+                                    
+                                    .bg-light {
+                                        background-color: #AD3E0A!important;
+                                    }
+                                    
+                                    .col-md-12 {
+                                        background-color: #AAA3A0
+                                    }
+                                    
+                                    .col-lg-12 {
+                                        background-color: #AAA3A0
+                                    }
+                                    
+                                    .card-body {
+                                        border: black;
+                                    }
+                                    
+                                    .btn-primary {
+                                        background-color: skyblue;
+                                        padding-left: 50%;
+                                        padding-right: 45.2%;
+                                    }
+                                    /* body {
 
-.instagram {
-    width: 300px;
-    height: 300px;
-    margin: auto;
-    border: solid grey 5px;
-    padding: 10px;
-    box-sizing: content-box;
-}
-
-.stretch-card>.card {
-    width: 100%;
-    min-width: 100%
-}
-
-img.profile {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 500px;
-    width: auto;
-}
-
-
-/* body {
+                                    
     background-color: #f9f9fa
 }
 
